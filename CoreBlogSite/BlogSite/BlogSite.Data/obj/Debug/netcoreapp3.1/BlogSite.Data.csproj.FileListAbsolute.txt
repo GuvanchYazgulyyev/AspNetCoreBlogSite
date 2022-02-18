@@ -1,0 +1,4 @@
+E:\Projeler\CoreBlogSite\BlogSite\BlogSite.Data\bin\Debug\netcoreapp3.1\BlogSite.Model.dll
+E:\Projeler\CoreBlogSite\BlogSite\BlogSite.Data\obj\Debug\netcoreapp3.1\BlogSite.Data.csprojAssemblyReference.cache
+E:\Projeler\CoreBlogSite\BlogSite\BlogSite.Data\obj\Debug\netcoreapp3.1\BlogSite.Data.AssemblyInfoInputs.cache
+E:\Projeler\CoreBlogSite\BlogSite\BlogSite.Data\obj\Debug\netcoreapp3.1\BlogSite.Data.AssemblyInfo.cs
